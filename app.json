@@ -1,0 +1,12 @@
+{
+  "name": "expoavbare",
+  "displayName": "expo-av-bare",
+  "expo": {
+    "name": "expo-av-bare",
+    "slug": "expo-av-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
